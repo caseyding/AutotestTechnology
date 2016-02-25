@@ -1,0 +1,19 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+
+
+#Log
+logs/
+*.log
+
+#IntelliJ Idea
+*.iml
+.idea/
+target/
+out/
+
